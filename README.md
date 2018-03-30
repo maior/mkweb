@@ -5,7 +5,7 @@ Download MKBLOCK and Please read README file in MKBLOCK.
 mkweb is an example for voting system on MKBLOCK.
 Before you start, you have to install pyhon3 and nodejs.
 
-<h1>Execute Following orders.<h1>
+<h1>Execute Following orders.</h1>
 1. run MKBLOCK
 2. change ip address in index.js(ex:http://localhost:8080)
 3. run "node app.js"
