@@ -13,7 +13,7 @@ Before you start, you have to install pyhon3 and nodejs.<br>
   <li> run "npm run start:dev"</li>
 </ul>
 </p>
-if you didn't intall npm, refer these sites<br>
+if you didn't install npm, refer these sites<br>
 for mac : http://blog.teamtreehouse.com/install-node-js-npm-mac<br>
 for ubuntu : https://www.rosehosting.com/blog/install-npm-on-ubuntu-16-04/<br>
 
