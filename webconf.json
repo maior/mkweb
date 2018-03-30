@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+
+    "dbinfo": {
+        "path": "/Users/maior/IdeaProjects/",
+        "blockname": "mkblock",
+        "folder": "mkii-db",
+        "file": "blockchain-DONOTTOUCH.dat"
+    },
+    
+    "network": {
+        "ip": "localhost",
+        "port": "8788",
+        "taxi": "200000"
+    }
+}
